@@ -1,0 +1,26 @@
+{
+  "name": "typescript-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xataio/typescript-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xataio/typescript-interview/issues"
+  },
+  "homepage": "https://github.com/xataio/typescript-interview#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.16",
+    "ts-node": "^10.5.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.5"
+  }
+}
